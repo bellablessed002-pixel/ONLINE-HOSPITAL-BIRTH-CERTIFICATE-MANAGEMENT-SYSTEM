@@ -1,0 +1,2 @@
+# ONLINE-HOSPITAL-BIRTH-CERTIFICATE-MANAGEMENT-SYSTEM
+The system should be able to manage simplest way in which parents can acquire the birth certificates online through the hospital since thats the beginning of the process,unlike in many cases of the lost notification cards thias can be a good idea and helpful once the correct details are captured one can print from anywhere based with the digitality
